@@ -1,0 +1,6 @@
+flows:
+  c4f5d827-a1b1-4099-8df4-c09d243d5a1d: {ver: 3, file: Test.snapshot, comments: 'step-3:
+      changes at changing to primary node', author: anonymous, created: 1585722318857,
+    flowName: Test, flowDesc: ''}
+layoutVer: 1
+bucketId: 75c5654d-bd76-404c-a2f7-41a0b8bc5acf
